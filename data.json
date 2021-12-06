@@ -1,0 +1,84 @@
+{
+    "entries" : [
+        {
+            email:"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ",
+            "image":
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        },
+        
+        {
+            "email":"divyangmehrotra5@gmail.com",
+            "password":"123456789",
+            "fname":"Divyang",
+            "lname":"Mehrotra", 
+            "address":"ABC-XYZ"
+        }
+    ]
+}
