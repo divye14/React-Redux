@@ -1,25 +1,13 @@
 import React, { useState } from "react";
+import ReduxContainer from '../container/ReduxContainers';
 import { StyleSheet, View, Text, TouchableOpacity } from "react-native";
 
 const Reduxapp = ()=>{
-    const [count, setCount] = useState(5);
-    const increment = ()=>{
-       setCount=count++
-    }
     return(
         <View style={styles.container}>
-            <Text style={styles.counttext}>TIMES:{"\t"}{count}</Text>
-            <TouchableOpacity
-             onpress={increment}
-             style={styles.one}>
-                <Text style={styles.incre}>INCREASE</Text>
-            </TouchableOpacity>
-
-            <TouchableOpacity 
-            onpress={()=>setCount(count-1)}
-            style={styles.one}>
-                <Text style={styles.incre}>DECREASE</Text>
-            </TouchableOpacity>
+            <View style={styles.comp2}>
+                <ReduxContainer/>
+            </View>
         </View>
     );
 }
@@ -52,5 +40,10 @@ const styles=StyleSheet.create({
         fontSize:25,
         fontWeight:'bold',
         color:'white'
+    },
+    comp2:{
+        backgroundColor:'orange',
+        margin:10,
+        padding:10
     }
 });

@@ -27,7 +27,9 @@
     "react-native-router-flux": "^4.3.1",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-scientific-calculator": "^0.1.6",
-    "react-native-screens": "^3.8.0"
+    "react-native-screens": "^3.8.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
     "@babel/core": "7.15.8",
